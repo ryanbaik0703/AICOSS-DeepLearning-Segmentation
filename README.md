@@ -19,4 +19,4 @@ This repository contains our solution for the AICOSS 2026 Deep Learning Winter B
 - 1st Prize(President's Award)
 
 ## 📑 Presentation
-- [Final Presentation (PDF)]([./1조%20presentation.pdf](https://github.com/ryanbaik0703/AICOSS-DeepLearning-Segmentation/blob/main/1%E1%84%8C%E1%85%A9%20presentation.pdf))
+- [Final Presentation (PDF)](https://github.com/ryanbaik0703/AICOSS-DeepLearning-Segmentation/blob/main/1%E1%84%8C%E1%85%A9%20presentation.pdf)
