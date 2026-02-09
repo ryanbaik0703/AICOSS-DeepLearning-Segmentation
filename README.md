@@ -18,4 +18,5 @@ This repository contains our solution for the AICOSS 2026 Deep Learning Winter B
 - Key findings and ablation included in slides
 - 1st Prize(President's Award)
 
-
+## 📑 Presentation
+- [Final Presentation (PDF)](./slides/1조%20presentation.pdf)
